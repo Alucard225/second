@@ -26,5 +26,6 @@ button.addEventListener("click", ()=>{
     } else {
         console.log("Computer wins!");
     }
+    console.log("thankssssssssssssssss");
 });
 
